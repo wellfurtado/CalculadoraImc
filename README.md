@@ -1,7 +1,8 @@
-# Calculadora IMC
 # 📱 IMC Calculator - Cálculo do Índice de Massa Corporal (IMC)
 
-Este é um aplicativo simples para calcular o **Índice de Massa Corporal (IMC)**, desenvolvido em **Kotlin** utilizando **Jetpack Compose e Material Design**. Criado como parte do meu portfólio para demonstrar conhecimento em desenvolvimento Android. 🚀
+Este é um aplicativo simples, desenvolvido como um **projeto de estudo**, para calcular o **Índice de Massa Corporal (IMC)**, desenvolvido em **Kotlin** utilizando **Jetpack Compose e Material Design**. Criado como parte do meu portfólio para demonstrar conhecimento em desenvolvimento Android. 🚀
+
+> **Objetivo do projeto**: Aprender conceitos básicos de desenvolvimento Android com Kotlin, incluindo **layouts com ConstraintLayout, manipulação de eventos de clique, validação de entrada do usuário e utilização de Snackbar**.
 
 ---
 
