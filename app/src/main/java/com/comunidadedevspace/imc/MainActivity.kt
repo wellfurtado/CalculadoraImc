@@ -1,5 +1,6 @@
 package com.comunidadedevspace.imc
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -31,6 +32,11 @@ class MainActivity : AppCompatActivity() {
 
                 val alturaAoQuadrado = altura * altura
                 val resultadoIMC = peso / alturaAoQuadrado
+
+                val intent = Intent(this, ResultActivity::class.java)
+                intent.putExtra(KEY_RESULT_IMC, resultadoIMC)
+                startActivity(intent)
+
                 println("IMC = $resultadoIMC")
             }
         }
