@@ -18,17 +18,25 @@ Este é um aplicativo simples, desenvolvido como um **projeto de estudo**, para 
 
 ## 🖼️ Demonstração
 
-*(Adicione capturas de tela do aplicativo aqui)*
+<img src="https://github.com/user-attachments/assets/e7d0cefb-9ef9-4e33-8b19-6f23f28b4e22" width=180/> <img src="https://github.com/user-attachments/assets/4e94756a-9e13-431b-ae29-6d71880c4ecf" width=180/> 
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Kotlin** como linguagem principal.
-- **Jetpack Compose** para construção da interface gráfica.
-- **Material Design** para um design moderno.
 - **Snackbar** para notificações.
 - **ConstraintLayout** para estruturação da UI.
+- **Activity**.
+- **Intent**.
+- **ViewGroups**.
+   - **LinearLayout**
+   - **ConstraintLayout**.
+- **Views**.
+   - **ImageView**.
+   - **TextView**.
+   - **EditText**.
+   - **Button**.
 
 ---
 
